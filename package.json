@@ -1,0 +1,22 @@
+{
+  "name": "weather_cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "keywords": [
+    "weather",
+    "cli"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "bin": "./app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fizzzle/weatherCliNodeJs.git"
+  }
+}
